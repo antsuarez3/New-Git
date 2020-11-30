@@ -3,3 +3,6 @@ This repository is going to be a rather contrived example of ising various featu
 
 ## Getting Started
 This is where you will learn how to get started with this project.
+
+## Run These Commands
+git branch -- lists all branches
